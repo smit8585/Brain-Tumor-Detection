@@ -29,7 +29,7 @@ st.title("Brain Tumour Classifier")
 
 st.header("Identify Tumors in MRI / CT Scan Images")
 
-st.subheader("Upload a file Brain scanned file")
+st.subheader("Upload a Scanned Image of Brain")
 
 uploaded_file = st.file_uploader("", type=['png','jpg','jpeg'])
 
