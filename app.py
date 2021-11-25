@@ -27,7 +27,7 @@ def make_prediction(img):
 
 st.title("Brain Tumour Classifier")
 
-st.header("Classifier X-RAY IMAGES")
+st.header("Identify Tumors in MRI / CT Scan Images")
 
 st.subheader("Upload a file Brain scanned file")
 
